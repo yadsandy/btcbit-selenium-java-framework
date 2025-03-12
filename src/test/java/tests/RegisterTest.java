@@ -43,7 +43,7 @@ public class RegisterTest extends BaseTest {
         log.info("Random email for registration is{}", emailId);
         registerPageElements.completeRegisterForm(emailId, PASSWORD);
         log.info("Registration form is filled and click on Sign up button.");
-        // Comment after this as the Captcha is occurring on the registration page.
+        // Commented code after this as the Captcha is occurring on the registration page.
 //        String emailFromProfilePage = profilePageElements.getUserDetailsAfterLogin();
 //        Assert.assertEquals(emailFromProfilePage, emailId);
 //        log.info("Verified user email after successful registration");
