@@ -40,6 +40,3 @@ Extent Report -
 ![report1.png](src/test/resources/report1.png)
 ![report2.png](src/test/resources/report2.png)
 
-Video -
-[BTCBIT Automation Video.mp4](BTCBIT%20Automation%20Video.mp4)
-
